@@ -1,7 +1,7 @@
 // Definirea unei constante pentru URL-ul de bază al API-ului de știri:
 const ENDPOINT = "https://newsapi.org/v2/everything";
 // Definirea unei constante pentru cheia API pentru autentificare:
-const API_KEY = "dd82ff3604224bf1b224da3ef75c9135";
+const API_KEY = "ff9ae22ea3a840909fccf72096c77bf0";
 
 // Definirea unei funcții numită 'getNews' care primește un argument 'query':
 function getNews(query) {
